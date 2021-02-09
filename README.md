@@ -11,12 +11,12 @@ The three open-world Chronic Diseases Prevalence Datasets can be downloaded at:
 * US-Hypertension Dataset: https://www.cdc.gov/500cities/
 * Taiwan-Diabetes Dataset: https://dep.mohw.gov.tw/DOS/cp-2519-3480-113.html
 
-The "DATA" folder contains the downloaded raw data set and the pre-processed normalised data.
+The "./DATA OBSERVATION AND INTUITION/DATA" folder contains the downloaded raw data set and the pre-processed normalised data.
 
 ## Run
-All the hyper-parameters and steps are included in the ./EXPERIMENTS/UAA-GAIN/main.py file, you can run it directly.
+All the hyper-parameters and steps are included in the ./UAA-GAIN/main_letter_spam.py file, you can run it directly.
 
-All other baseline methods are also in the "EXPERIMENTS" folder.
+All other baseline methods are also in the "Multi-year based baselines" and "Year-by-year based baselines" folder.
 
 ## Complete experimental results
 Due to space limitations in the paper, it is not possible to show the results of the experiments for all years.
